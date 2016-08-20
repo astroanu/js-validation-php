@@ -1,0 +1,15 @@
+{
+    "name": "astroanu/jquery-validation",
+    "authors": [{
+        "name": "Anuradha Jayathilaka",
+        "email": "astroanu2004@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Astroanu\\JsValidation\\": "src/"
+        }
+    },
+    "require": {
+        "laravel/framework": "5.2.*"
+    }
+}
